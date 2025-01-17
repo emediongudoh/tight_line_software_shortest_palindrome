@@ -24,3 +24,5 @@ function shortestPalindrome(str) {
 }
 
 console.log(shortestPalindrome("abcdc"));
+console.log(shortestPalindrome("racecar"));
+console.log(shortestPalindrome("madam"));
